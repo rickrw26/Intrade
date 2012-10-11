@@ -1,0 +1,8 @@
+C:\Users\Rick\Desktop\projects\Intrade\Intrade\bin\Debug\Intrade.exe
+C:\Users\Rick\Desktop\projects\Intrade\Intrade\bin\Debug\Intrade.pdb
+C:\Users\Rick\Desktop\projects\Intrade\Intrade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\projects\Intrade\Intrade\obj\x86\Debug\Intrade.Properties.Resources.resources
+C:\Users\Rick\Desktop\projects\Intrade\Intrade\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rick\Desktop\projects\Intrade\Intrade\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rick\Desktop\projects\Intrade\Intrade\obj\x86\Debug\Intrade.exe
+C:\Users\Rick\Desktop\projects\Intrade\Intrade\obj\x86\Debug\Intrade.pdb
